@@ -1,1 +1,7 @@
-1234
+git add .
+git commit -m "text"
+git push
+
+
+git checkout "branch name" <-switch branch
+
